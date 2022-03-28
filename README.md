@@ -1,5 +1,5 @@
 # teaching-test
 A repo to demonstrate version control
 
-## Cool, i can use Markdown
+## Cool, I can use Markdown
 Hello world!
